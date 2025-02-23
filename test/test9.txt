@@ -1,0 +1,35 @@
+8 12 9
+DEFAULT
+     BBBB
+     BBBBB
+     BBBBB
+     BBBBB
+     BBBBB
+BBBBBBBBB
+BBB   BBB
+BBB   BBB
+I
+I
+I
+I  II
+IIIII
+AAA
+AAA
+ D
+DD
+DD
+DD
+EEE
+E
+E
+GG
+GG
+   H
+   H
+HHHH
+HH
+CCC
+ C
+KK
+KK
+KK
