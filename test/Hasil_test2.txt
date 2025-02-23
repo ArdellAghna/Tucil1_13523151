@@ -1,0 +1,12 @@
+IQ PUZZLER PRO
+--- SOLUSI ---
+Waktu pencarian: 232166 ms
+Jumlah percobaan: 2205451
+
+Konfigurasi Board:
+AAABBBCDDEE
+AFAIBBCDDEE
+FFIIIICDKEE
+HFFJJGGKKEE
+HHHHJGGKLLL
+

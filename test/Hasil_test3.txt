@@ -1,0 +1,13 @@
+IQ PUZZLER PRO
+--- SOLUSI ---
+Waktu pencarian: 388 ms
+Jumlah percobaan: 8671
+
+Konfigurasi Board:
+AHHE
+AZZE
+ABBB
+DBCC
+DBCC
+DCCC
+
